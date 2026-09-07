@@ -1,0 +1,84 @@
+{
+  "search_metadata": {
+    "id": "6a98c24cf9c5e9d7f06eed61",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Q46QhyleiVZkVuo7YKmHOitYfKkliyOPjs7iYQ4cRHY/6a98c24cf9c5e9d7f06eed61.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Q46QhyleiVZkVuo7YKmHOitYfKkliyOPjs7iYQ4cRHY/6a98c24cf9c5e9d7f06eed61.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Q46QhyleiVZkVuo7YKmHOitYfKkliyOPjs7iYQ4cRHY/6a98c24cf9c5e9d7f06eed61.json_with_pixel_position",
+    "created_at": "2026-09-03 00:41:48 UTC",
+    "processed_at": "2026-09-03 00:41:48 UTC",
+    "google_url": "https://www.google.com/search?q=erothots+fernandashows&oq=erothots+fernandashows&start=40&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Q46QhyleiVZkVuo7YKmHOitYfKkliyOPjs7iYQ4cRHY/6a98c24cf9c5e9d7f06eed61.html",
+    "total_time_taken": 4.56
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "erothots fernandashows",
+    "google_domain": "google.com",
+    "start": 40,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "erothots fernandashows",
+    "total_results": 18,
+    "page_number": 5,
+    "time_taken_displayed": 0.2,
+    "organic_results_state": "Fully empty"
+  },
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 18 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      },
+      {
+        "content": "In response to multiple complaints we received under the US Digital Millennium Copyright Act, we have removed 4 results from this page. If you wish, you may read the DMCA complaints that caused the removals at LumenDatabase.org: Complaint, Complaint, Complaint.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAV3RdA0tgOj80q3Uv0iUSlP8g0-50OgEoPClsyYAPWd1Y6ycuSYjlT7mQWfO4lIw8AbZ2763WH2d3CcJp9ndMR7WSN9qH0OAdiNph3r_e_maWXoGJQwjGDljw9L1MK",
+            "text": "Complaint"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVaPQog3n_WEu04ycz_rLITEDSQdhZ1x8vvfB2snQMQYMgqqcsy3Sozz8B9bko_iKOxNvSR820XILZykygAGajl4AhDO7VPOiJlb8hvQFSlTpQNCTkcrftjXoX1Fuq",
+            "text": "Complaint"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVoljG0ytRfyA7VnzUoHhPDh0GuHJariegfBOl_Pv-eLmiCgCrUmOTH0TJjUDSWQJzJQKg5j0tyFuXrtM2YWUSNbHXHsO90_Zr2_5g8wio29XXK6TAwxCbU7c5FWFG",
+            "text": "Complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&ei=UMKYavD8MfeTruEP0vr2sA0&start=30&sa=N&ved=2ahUKEwjw5JbYltGWAxX3iSsGHVK9HdY4KBDx0wN6BAgXEAc",
+    "other_pages": {
+      "1": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&ei=UMKYavD8MfeTruEP0vr2sA0&start=0&sa=N&ved=2ahUKEwjw5JbYltGWAxX3iSsGHVK9HdY4KBDy0wN6BAgXEAk",
+      "2": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&ei=UMKYavD8MfeTruEP0vr2sA0&start=10&sa=N&ved=2ahUKEwjw5JbYltGWAxX3iSsGHVK9HdY4KBDy0wN6BAgXEAs",
+      "3": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&ei=UMKYavD8MfeTruEP0vr2sA0&start=20&sa=N&ved=2ahUKEwjw5JbYltGWAxX3iSsGHVK9HdY4KBDy0wN6BAgXEA0",
+      "4": "https://www.google.com/search?q=erothots+fernandashows&sca_esv=dd46a656673c1180&sxsrf=APpeQntcYRe8UN30YAY1funRPgbVm3Q_qQ:1788396112825&ei=UMKYavD8MfeTruEP0vr2sA0&start=30&sa=N&ved=2ahUKEwjw5JbYltGWAxX3iSsGHVK9HdY4KBDy0wN6BAgXEA8"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=30",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=30",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=0",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=erothots+fernandashows&start=30"
+    }
+  }
+}

@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.local-data/
+*.mp4
+*.mkv
+*.mov
+*.avi
+*.webm
+*.m4v
+*.mpeg
+*.mpg
+*.ts
+*.wav
+*.mp3
+*.raw

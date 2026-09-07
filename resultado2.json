@@ -1,0 +1,130 @@
+{
+  "decision": "review",
+  "signals": {
+    "original_frames": 56,
+    "candidate_frames": 56,
+    "original_usable_frames": 56,
+    "candidate_usable_frames": 56,
+    "original_repeated_frames": 0,
+    "candidate_repeated_frames": 0,
+    "ambiguous_candidate_frames": 0,
+    "matched_candidate_seconds": 30.5,
+    "audio_evaluated": false,
+    "calibrated": false,
+    "retrieved_frame_pairs": 44,
+    "refined_segments": 3
+  },
+  "matched_segments": [
+    {
+      "original_start": 4.0,
+      "original_end": 12.75,
+      "candidate_start": 3.5,
+      "candidate_end": 12.75,
+      "duration": 8.75,
+      "confidence_signals": {
+        "matches": 26,
+        "median_hamming": 10.0,
+        "offset_seconds": 0.0,
+        "max_offset_residual_seconds": 0.5,
+        "sampling_interval_seconds": 0.25,
+        "boundary_uncertainty_seconds": 0.25
+      }
+    },
+    {
+      "original_start": 20.0,
+      "original_end": 25.5,
+      "candidate_start": 20.0,
+      "candidate_end": 25.5,
+      "duration": 5.5,
+      "confidence_signals": {
+        "matches": 15,
+        "median_hamming": 8,
+        "offset_seconds": 0.0,
+        "max_offset_residual_seconds": 0.25,
+        "sampling_interval_seconds": 0.25,
+        "boundary_uncertainty_seconds": 0.25
+      }
+    },
+    {
+      "original_start": 29.0,
+      "original_end": 44.75,
+      "candidate_start": 29.0,
+      "candidate_end": 44.75,
+      "duration": 15.75,
+      "confidence_signals": {
+        "matches": 28,
+        "median_hamming": 8.0,
+        "offset_seconds": 0.0,
+        "max_offset_residual_seconds": 0.25,
+        "sampling_interval_seconds": 0.25,
+        "boundary_uncertainty_seconds": 0.25
+      }
+    }
+  ],
+  "original_coverage": 0.5319148936170213,
+  "candidate_coverage": 0.5407801418439716,
+  "reason": "Shared visual segment is short or limited in coverage; a shared intro/outro is possible.",
+  "schema_version": "1",
+  "original": {
+    "path": "C:\\Users\\ceric\\Videos\\original\\u1kEURer_720p.mp4",
+    "duration": 56.4,
+    "width": 404,
+    "height": 720,
+    "codec": "h264",
+    "rotation": 0.0,
+    "sample_aspect_ratio": "1:1",
+    "sha256": "671bd492b1592a65f0a9bc60c00cfe93435574b59988ea6d24f23047628cad63"
+  },
+  "candidate": {
+    "path": "C:\\Users\\ceric\\Videos\\copia\\copia.mp4",
+    "duration": 56.4,
+    "width": 1080,
+    "height": 1924,
+    "codec": "h264",
+    "rotation": 0.0,
+    "sample_aspect_ratio": "1:1",
+    "sha256": "62ea0a3d12397353138ed0a8ed3e30b7cc737bacf6ed0980e46b167dd82dd8d4"
+  },
+  "algorithm": {
+    "name": "temporal-visual-phash-baseline",
+    "version": "0.1.0-experimental",
+    "descriptor": "numpy-dct-phash64-full-center85-v1",
+    "threshold_status": "EXPERIMENTAL_UNCALIBRATED",
+    "parameters": {
+      "sample_fps": 1.0,
+      "refine_fps": 4.0,
+      "refine": true,
+      "frame_size": 160,
+      "max_hamming": 10,
+      "ambiguity_margin": 2,
+      "max_alternatives": 3,
+      "min_std": 12.0,
+      "min_entropy": 3.0,
+      "repeat_hamming": 2,
+      "offset_tolerance": 0.65,
+      "max_gap_seconds": 2.5,
+      "min_matches": 4,
+      "min_segment_seconds": 3.0,
+      "probable_seconds": 8.0,
+      "probable_coverage": 0.6,
+      "max_duration": 7200.0,
+      "max_frames": 8000,
+      "max_pair_comparisons": 20000000,
+      "timeout_seconds": 180.0
+    },
+    "runtime": {
+      "python": "3.12.14",
+      "numpy": "2.3.5",
+      "pillow": "12.3.0",
+      "ffmpeg": "ffmpeg version 9.0.1-full_build-www.gyan.dev Copyright (c) 2000-2026 the FFmpeg developers",
+      "ffprobe": "ffprobe version 9.0.1-full_build-www.gyan.dev Copyright (c) 2007-2026 the FFmpeg developers"
+    }
+  },
+  "limitations": [
+    "Visual only; no audio analysis.",
+    "Short or heavily transformed copies may be missed.",
+    "No calibrated probability or legal authorization decision.",
+    "Boundaries are sampling estimates relative to decoded start.",
+    "Static or repeated material may be insufficient."
+  ]
+}

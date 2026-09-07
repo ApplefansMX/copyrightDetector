@@ -1,0 +1,17 @@
+{
+  "sample_fps": 1.0,
+  "refine_fps": 4.0,
+  "refine": true,
+  "max_hamming": 10,
+  "ambiguity_margin": 2,
+  "max_alternatives": 3,
+  "min_std": 12.0,
+  "min_entropy": 3.0,
+  "repeat_hamming": 2,
+  "offset_tolerance": 0.65,
+  "max_gap_seconds": 2.5,
+  "min_matches": 4,
+  "min_segment_seconds": 3.0,
+  "probable_seconds": 8.0,
+  "probable_coverage": 0.6
+}

@@ -1,0 +1,357 @@
+{
+  "search_metadata": {
+    "id": "6a94a37da7d78418e9838e2d",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Q1e0_2jp4O1gEhNLtJzZG30vLb4wmuHMjxRx2kqontk/6a94a37da7d78418e9838e2d.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Q1e0_2jp4O1gEhNLtJzZG30vLb4wmuHMjxRx2kqontk/6a94a37da7d78418e9838e2d.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Q1e0_2jp4O1gEhNLtJzZG30vLb4wmuHMjxRx2kqontk/6a94a37da7d78418e9838e2d.json_with_pixel_position",
+    "created_at": "2026-08-30 21:41:17 UTC",
+    "processed_at": "2026-08-30 21:41:17 UTC",
+    "google_url": "https://www.google.com/search?q=FernandaShows&oq=FernandaShows&start=30&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Q1e0_2jp4O1gEhNLtJzZG30vLb4wmuHMjxRx2kqontk/6a94a37da7d78418e9838e2d.html",
+    "total_time_taken": 11.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "FernandaShows",
+    "google_domain": "google.com",
+    "start": 30,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "FernandaShows",
+    "total_results": 85,
+    "page_number": 4,
+    "time_taken_displayed": 0.25,
+    "organic_results_state": "Results for exact spelling"
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "Fernandashows Oficial",
+      "link": "https://www.instagram.com/popular/fernandashows-oficial/?hl\\u003den",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESdgHrOzAVNNAZ578X55IGZRl-H57Z_gWEhz79hewzX2rq9eJfUfnGnknlJHK-IqRrRFTKCANj2309o1XfwF7BjVTTgF6BBMfNSsYxaYlqwbhW0Ow8XFRFOJqCTYkrvUmc-gWs_WUb6i1yeCgmifaLHKcmReAGi38&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIGhAB&uoh=1",
+      "displayed_link": "https://www.instagram.com › fern...",
+      "favicon": "https://serpapi.com/searches/6a94a37da7d78418e9838e2d/images/LUKxAaC5N8zJjbFurtX4srvFy1EB60bN7Dwt4CLEXvU.png",
+      "date": "Mar 27, 2026",
+      "snippet": "Un poco de diversión y vídeos que no les había compartido en el set de @quiencaera ¿ustedes qué se imaginaron que era?",
+      "about_this_result": {
+        "source": {
+          "description": "Un poco de diversión y vídeos que no les había compartido en el set de @quiencaera ¿ustedes qué se imaginaron que era?",
+          "source_info_link": "https://www.instagram.com/popular/fernandashows-oficial/?hl=en",
+          "icon": "https://serpapi.com/searches/6a94a37da7d78418e9838e2d/images/LUKxAaC5N8zJjbFurtX4spq-_I9eGdxMIiWaeZIwwmvEC5z8E9-Ogvivd67pz_Fa.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.instagram.com/popular/fernandashows-oficial/?hl=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.instagram.com%2Fpopular%2Ffernandashows-oficial%2F%3Fhl%3Den",
+      "source": "Instagram"
+    },
+    {
+      "position": 2,
+      "title": "View @fernandashow2oficial",
+      "link": "https://t.me/fernandashow2oficial",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWQHrOzAVfEgbHczYaEQCF4C5WPixfUu9-1UBFZBm_MmTvTpS4dLdokbfzrgd8urtJdiAK315nMgdzC-vnY-HSG1qp4fuBNXY3wC1UZ-Safs9n_ySTiQmBSav&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIFhAB&uoh=1",
+      "displayed_link": "https://t.me › ...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX____7_v-13fh2w_I5sO8Qp-1twPKq2Pfw-P2My_QpqeoAourU6_q74Pid0vQoqOno9PwAoeZfue0npeVwverI5PcAn-Tf8PstqeeQy_BBrugAneB-xO0lo-EAmOAkoN1KruR1veYkod4wo9sjoNwAl9eTyutcsuGUqcVdAAABAElEQVR4AazPVWKAMBAE0EWCu0OgaOj9b1gGl98-LMtE6R9IsqIypmq68Y1Mxpi1YMxWXrGD5MBsl25c23qwvds4ZM9UPtfzv-xgD83n_9CHaB-IaheHYZJ6-JHlBHJ4RQVOmYZolwRJvMuilEAPUVUEVQwhr7GH2iEyY-AEPAZdwpniJaNom8dYwyaOE4LyJ8enaRDyNSyapUrcwCl4gNrgDXAJRbK1Fw6Bs4UFgd42u24dKW9hTdc00HIdK7doYxro2-HAO4NGNNqOAEOHU8unFl_h0M4V7YuY6TSL6UH0dCOL9ooe4yD4FeKIOofe8nkUi7F2_oYj7XJwMBKdzgHYOCTeRThq_wAAAABJRU5ErkJggg.png",
+      "snippet": "839 subscribers. View in Telegram · Preview channel. If you have Telegram, you can view and join. Fernanda show Fernandashow2 fernandashows right away.",
+      "snippet_highlighted_words": [
+        "Fernanda show"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "839 subscribers. View in Telegram · Preview channel. If you have Telegram, you can view and join. Fernanda show Fernandashow2 fernandashows right away.",
+          "source_info_link": "https://t.me/fernandashow2oficial",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAeFBMVEX____7_v-13fh2w_I5sO8Qp-1twPKq2Pfw-P2My_QpqeoAourU6_q74Pid0vQoqOno9PwAoeZfue0npeVwverI5PcAn-Tf8PstqeeQy_BBrugAneB-xO0lo-EAmOAkoN1KruR1veYkod4wo9sjoNwAl9eTyutcsuGUqcVdAAABAElEQVR4AazPVWKAMBAE0EWCu0OgaOj9b1gGl98-LMtE6R9IsqIypmq68Y1Mxpi1YMxWXrGD5MBsl25c23qwvds4ZM9UPtfzv-xgD83n_9CHaB-IaheHYZJ6-JHlBHJ4RQVOmYZolwRJvMuilEAPUVUEVQwhr7GH2iEyY-AEPAZdwpniJaNom8dYwyaOE4LyJ8enaRDyNSyapUrcwCl4gNrgDXAJRbK1Fw6Bs4UFgd42u24dKW9hTdc00HIdK7doYxro2-HAO4NGNNqOAEOHU8unFl_h0M4V7YuY6TSL6UH0dCOL9ooe4yD4FeKIOofe8nkUi7F2_oYj7XJwMBKdzgHYOCTeRThq_wAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://t.me/fernandashow2oficial&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ft.me%2Ffernandashow2oficial",
+      "source": "Telegram Messenger",
+      "read_more_link": "https://www.google.com/goto?url=CAESqAEB6zswFd4XPYyFtCLY-3F9K3ANUuVZ90DqQ5lxceFMRdifQV6lJJCZhKObkpjRE32RfFNjnlfRnnvByqWWAuZx1dPWGtsZzRI6_XJJtGDuveu4Z6TCxKFaOQEFKSu_l8uzHk_aa7HG8A5VTOy68Uz8SgXYCDUVg-qpC09Llzzi787hhnVw80o3cZzek5WBl9-ejePv0QYMaUmGBmIZE6S275rqIEcZu8Y"
+    },
+    {
+      "position": 3,
+      "title": "FernandaShow Videos, Store, Club & Live Shows",
+      "link": "https://www.manyvids.com/Profile/1006184822/fernandashow/Store/Videos",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESfQHrOzAV0-Z5igRhGgulGFuRBJZtiOqxK85gS4mBZ2RktQxhp6PP9YJtiLHsorSTz5rKlTzfoGw6wPUjRC1i_Zv2u1yB7mDKt9a7AdSjT83HmzhQ_RtCyxfcLAeJlxN1NLzW2VYQUV7Z5OpqNppp-8BfcdxrjRfoy4RdNYFV&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIGxAB&uoh=1",
+      "displayed_link": "https://www.manyvids.com › Creators",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-TlJVbXV5tb3BqbG0tMDOfoKEhJSjz8_M5PD5_gIFIS0wZHiHw8PAAAAXHyMjl5eYkKCu1trfU1dUyNTc3OjwsLzKMjY5hY2Tf39_Nzc68vL2IiYr8_PxAQ0UQFhoeIiWtrq5NT1EZkO_wAAAA2klEQVR4Aa3NBQKDMBAEwMU1pSkxXP7_yB5SdxkkcoY_sWzcZzuA6wF-EOJGRFVxAlgpw41wk21Tvgt5jjuSQEgpVIp7dKAIN7in0BbRJT5U1UtNYdW7BhdYG3he6gBWpzzOC5yLhCTcylJJRB_iZOBypqJ11TgxQs54sG7Eedc1VuXtEu0aHI3zlXBpgJqDKU6s5Uow2Me0I9bNwT6HWApLnPH5PBOoPVo9BxcMNRZ0l3FaowaXRippxzGhmMdwzZ5qBPWMGG7F6TzXNLin6j3R-XggdMct_mIPAdcSiCQQqtQAAAAASUVORK5CYII.png",
+      "snippet": "18+ ONLY Step into my world of pleasure… Exclusive, uncensored & just f... - Stream vids, request customs, join live shows and shop exclusives on ManyVids.",
+      "snippet_highlighted_words": [
+        "18+ ONLY"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "18+ ONLY Step into my world of pleasure… Exclusive, uncensored & just f... - Stream vids, request customs, join live shows and shop exclusives on ManyVids.",
+          "source_info_link": "https://www.manyvids.com/Profile/1006184822/fernandashow/Store/Videos",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAaVBMVEX___-TlJVbXV5tb3BqbG0tMDOfoKEhJSjz8_M5PD5_gIFIS0wZHiHw8PAAAAXHyMjl5eYkKCu1trfU1dUyNTc3OjwsLzKMjY5hY2Tf39_Nzc68vL2IiYr8_PxAQ0UQFhoeIiWtrq5NT1EZkO_wAAAA2klEQVR4Aa3NBQKDMBAEwMU1pSkxXP7_yB5SdxkkcoY_sWzcZzuA6wF-EOJGRFVxAlgpw41wk21Tvgt5jjuSQEgpVIp7dKAIN7in0BbRJT5U1UtNYdW7BhdYG3he6gBWpzzOC5yLhCTcylJJRB_iZOBypqJ11TgxQs54sG7Eedc1VuXtEu0aHI3zlXBpgJqDKU6s5Uow2Me0I9bNwT6HWApLnPH5PBOoPVo9BxcMNRZ0l3FaowaXRippxzGhmMdwzZ5qBPWMGG7F6TzXNLin6j3R-XggdMct_mIPAdcSiCQQqtQAAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.manyvids.com/Profile/1006184822/fernandashow/Store/Videos&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.manyvids.com%2FProfile%2F1006184822%2Ffernandashow%2FStore%2FVideos",
+      "source": "ManyVids"
+    },
+    {
+      "position": 4,
+      "title": "Benjamin y Fernanda / fernandashow_2 / fernandashows ...",
+      "link": "https://fapello.com/fernandashows/1/",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXAHrOzAVg8ZNrVB2ZAV5ZzML6_6We0-JgPcYSJDAjc_1lCfpPbv7N4ApLLaBQUR8n3DM8AkD6pj3E1QdG4QVdYgC9_E_aT0iQRnjybFHODKM0KB7bY-WB0zB28Vr&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIFRAB&uoh=1",
+      "displayed_link": "https://fapello.com › fernandashows",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA81BMVEUAAAAPERQYGx8lKi8kKS8kKS0XHCAnKjA5LjgmKzEmKS97QFzaW4_2Yp7QV4lcN0onLDFpPFH_bKr_cLdGKDcdICOuTnX_bbKGOVikS29xNE0nLDKIRF_7Y5k6JjApLTLiXIoyMTekS2eTRmLNVXlEND28UXErMDXRVXnlW4H_aJPfWXx-QlT_ZolVOET_ZoX_Z46eSVtJNz__ZHzsW3c5OT-LRVDWVWxmPkm0Tl7_Y3c1OT8qNTupS1bsWWzXVGOSRlS_T13_Ym_uV2OMRkx9Q0tYMDTcVF3_X2T_YWm5TlOSOT_PUlmhS042O0AlKi03PEGgYQ1eAAABoUlEQVR4AWIgDBiZ8ABGABvzgMRAEARQtCpr27Z1_8tlEKf_YvRqELgxLBzHscwNAZ7h4ARR4Hh8gyQDsYKiarpBgMkAcZbtOI7mIuBJAhDjB7gQA1MCYiJ8bscI8IkJxKQ2KsvxDUUCZBplZmepR8B3Jv1XdaY15h8wjdYgour6LKsTAoZP0WdjhYZ0muYsawcKPqqWeV5NNGQzqofBtg9DP-Pqf9Ad53ku3XCdqG39BVV1p1IuEiOGYQCKbsqnKHdTtKOQ5IChscP3P83Iw_MS8xfyi_09JXGR4jKANEv-5A9Lcl4SmT1dBHnGt3KnkD_ld1J87ALkVwJVyqqWeyU3WDeEMbhGJMjrsk7foC2PGqpTwuttQHmtdQqECK0ud7SiVu0DEkZrS8jI6YOCVIvb4F912ncCGQneOhWC1qEn29M2GEIIowJk310IBjA3IXhHzjjxEAPvfW9jYOOu451Q3QT4PfbuloM755wAZJP3Y97zZkbAnYWDBQ-c91M-4Zk5BtfrvAdCwAzzmXUzkCPZA_AAkBuY2P1xAnYmwpkfAG-Zin39YsQDAAAAAElFTkSuQmCC.png",
+      "snippet": "Home/ Hot/ Forum · Welcome! New Models · Add Model NEW · Log In · Sign Up · Tags new · Search · CamSoda · Trending · OnlyFans Videos · Random ...",
+      "about_this_result": {
+        "source": {
+          "description": "Home/ Hot/ Forum · Welcome! New Models · Add Model NEW · Log In · Sign Up · Tags new · Search · CamSoda · Trending · OnlyFans Videos · Random ...",
+          "source_info_link": "https://fapello.com/fernandashows/1/",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAA81BMVEUAAAAPERQYGx8lKi8kKS8kKS0XHCAnKjA5LjgmKzEmKS97QFzaW4_2Yp7QV4lcN0onLDFpPFH_bKr_cLdGKDcdICOuTnX_bbKGOVikS29xNE0nLDKIRF_7Y5k6JjApLTLiXIoyMTekS2eTRmLNVXlEND28UXErMDXRVXnlW4H_aJPfWXx-QlT_ZolVOET_ZoX_Z46eSVtJNz__ZHzsW3c5OT-LRVDWVWxmPkm0Tl7_Y3c1OT8qNTupS1bsWWzXVGOSRlS_T13_Ym_uV2OMRkx9Q0tYMDTcVF3_X2T_YWm5TlOSOT_PUlmhS042O0AlKi03PEGgYQ1eAAABoUlEQVR4AWIgDBiZ8ABGABvzgMRAEARQtCpr27Z1_8tlEKf_YvRqELgxLBzHscwNAZ7h4ARR4Hh8gyQDsYKiarpBgMkAcZbtOI7mIuBJAhDjB7gQA1MCYiJ8bscI8IkJxKQ2KsvxDUUCZBplZmepR8B3Jv1XdaY15h8wjdYgour6LKsTAoZP0WdjhYZ0muYsawcKPqqWeV5NNGQzqofBtg9DP-Pqf9Ad53ku3XCdqG39BVV1p1IuEiOGYQCKbsqnKHdTtKOQ5IChscP3P83Iw_MS8xfyi_09JXGR4jKANEv-5A9Lcl4SmT1dBHnGt3KnkD_ld1J87ALkVwJVyqqWeyU3WDeEMbhGJMjrsk7foC2PGqpTwuttQHmtdQqECK0ud7SiVu0DEkZrS8jI6YOCVIvb4F912ncCGQneOhWC1qEn29M2GEIIowJk310IBjA3IXhHzjjxEAPvfW9jYOOu451Q3QT4PfbuloM755wAZJP3Y97zZkbAnYWDBQ-c91M-4Zk5BtfrvAdCwAzzmXUzkCPZA_AAkBuY2P1xAnYmwpkfAG-Zin39YsQDAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://fapello.com/fernandashows/1/&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Ffapello.com%2Ffernandashows%2F1%2F",
+      "source": "fapello.com",
+      "read_more_link": "https://www.google.com/goto?url=CAESiQEB6zswFRw3-u47bPjjWt3G0QIAdQ8cciUWz6cBhQ1oTOQLFUE7g2TSXz5-tQkc_OcnTA1B-39yYIoOtexWWg-581gS2lM9tOOjTUmUsqDnbJCc4-y91T5EXIKvno83WeJzG4Llok5aIXR0mGHleezh49HnROIL5iCMaZcNQPMZxHcysgx_iJBHWQ"
+    },
+    {
+      "position": 5,
+      "title": "Fernandashow Pelis",
+      "link": "https://www.ixxx.com/es/search/a/fernandashow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESZQHrOzAVVcMnQgJErfk8r6RsXIwb-QrupQnBkzfp1KhwYgcU1ClJfStsF6UT-DQpvMcHrVonto-0J6WkblIa21jgaKrQYCvboTDEjhLn6dvIPgxm_0V01o2KiIy5ObGApnRG2ET3&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIHRAB&uoh=1",
+      "displayed_link": "https://www.ixxx.com › search › f...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEUAAABENhDquzizjyv___88PDzU1NTh4eFqVRnPpTG9vb1YWFh7e3ssIwvKoTCRdCJ-fn5ra2sQEBAOCwOjgieohijJycm3t7fk5OSLi4tlURjvvznd3d3ltzczMzOpqalGRkbu7u6bm5sXFxeWlpYhISHtaWijAAAAmklEQVR4AdXRBRLCMAAAwSMc7u4O__8ig9TzgW4bvfFQP40QmqC2-GhrJ4vdEHrQ_98N1GEWR-PeBFCnQEfbVMzUz6xzMovlqguw1g1b3ZFhfwg9PtSjdijEcBrzMfTjHI9s1QvxeFXtxCM3P-7ReNfbUD1H4lmd0ddtJG71CA_1XolP9Qpc1HMpntU1H-q29GQb9cXHTh1QO2_jXAjXckRJfgAAAABJRU5ErkJggg.png",
+      "snippet": "Mira fernandashow Películas gratis en IXXX.com!",
+      "about_this_result": {
+        "source": {
+          "description": "Mira fernandashow Películas gratis en IXXX.com!",
+          "source_info_link": "https://www.ixxx.com/es/search/a/fernandashow",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAclBMVEUAAABENhDquzizjyv___88PDzU1NTh4eFqVRnPpTG9vb1YWFh7e3ssIwvKoTCRdCJ-fn5ra2sQEBAOCwOjgieohijJycm3t7fk5OSLi4tlURjvvznd3d3ltzczMzOpqalGRkbu7u6bm5sXFxeWlpYhISHtaWijAAAAmklEQVR4AdXRBRLCMAAAwSMc7u4O__8ig9TzgW4bvfFQP40QmqC2-GhrJ4vdEHrQ_98N1GEWR-PeBFCnQEfbVMzUz6xzMovlqguw1g1b3ZFhfwg9PtSjdijEcBrzMfTjHI9s1QvxeFXtxCM3P-7ReNfbUD1H4lmd0ddtJG71CA_1XolP9Qpc1HMpntU1H-q29GQb9cXHTh1QO2_jXAjXckRJfgAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.ixxx.com/es/search/a/fernandashow&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.ixxx.com%2Fes%2Fsearch%2Fa%2Ffernandashow",
+      "source": "XXX Movies Tube"
+    },
+    {
+      "position": 6,
+      "title": "Highlights by FernandaShows🎀 ( ...",
+      "link": "https://x.com/fernandashows/highlights",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESXgHrOzAVS_mAEbJ-yA0UjrMaQTsqJfjiwzJznYVjDbzG4aWndYT8V3dTkpgi9jiNJOZm95UDsz5mE7UAngAPC7o2gPxzdSUqR7lmR7rB4Qnkus76O4jh-DsJBERN_JE&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIFxAB&uoh=1",
+      "displayed_link": "https://x.com › fernandashows › h...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA_0lEQVR4AbXPIazCMACE4d-L2qoZFEGSIGcRc_gJJB5XMzGJmK9EN0HMi-qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka_mQfE7f2T3df0WBhLDAAAAAElFTkSuQmCC.png",
+      "snippet": "creadora de contenido mid // 22 // collab: fernandaShowsss (tlg)",
+      "snippet_highlighted_words": [
+        "creadora de contenido mid"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "creadora de contenido mid // 22 // collab: fernandaShowsss (tlg)",
+          "source_info_link": "https://x.com/fernandashows/highlights",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA_0lEQVR4AbXPIazCMACE4d-L2qoZFEGSIGcRc_gJJB5XMzGJmK9EN0HMi-qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka_mQfE7f2T3df0WBhLDAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://x.com/fernandashows/highlights&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fx.com%2Ffernandashows%2Fhighlights",
+      "source": "X"
+    },
+    {
+      "position": 7,
+      "title": "https://t.co/PlwMJRInfk",
+      "link": "https://x.com/fernandashows/status/2040149817834246616",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESbgHrOzAVL6gzqnC0bIAE-JhbM2NzgquoXbbfxVgg-lDTkVGJtRcoQLkJu9PsMckesA6L4LTGwKiz4dQdfNg9uNiksLwZSJ8cqnAQoCuq1XB51isCmHJP0LUp6d1qc5exzLo7xwRAMPyHRRec-uPo&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIIBAB&uoh=1",
+      "displayed_link": "9.9K+ likes · 4 months ago",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA_0lEQVR4AbXPIazCMACE4d-L2qoZFEGSIGcRc_gJJB5XMzGJmK9EN0HMi-qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka_mQfE7f2T3df0WBhLDAAAAAElFTkSuQmCC.png",
+      "snippet": "FernandaShows profile. FernandaShows . ✓. fernandashows. Apr 3. onlyfans.com/fernandashow_2 · 25. 865. 9883.",
+      "snippet_highlighted_words": [
+        "FernandaShows"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FernandaShows profile. FernandaShows . ✓. fernandashows. Apr 3. onlyfans.com/fernandashow_2 · 25. 865. 9883.",
+          "source_info_link": "https://x.com/fernandashows/status/2040149817834246616",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA_0lEQVR4AbXPIazCMACE4d-L2qoZFEGSIGcRc_gJJB5XMzGJmK9EN0HMi-qaibkKVF1txdQe4g0YzPK5yyWXHL9TaPNQ89LojH87N1rbJcXkMF4Fk31UMrf34hm14KUeoQxGArALHTMuQD2cAWQfJXOpgTbksGr9ng8qluShJTPhyCdx63POg7rEim95ZyR68I1ggQpnCEGwyPicw6hZtPEGmnhkycqOio1zm6XuFtyw5XDXfGvuau0dXHzJp8pfBPuhIXO9ZK5ILUCdSvLYMpc6ASBtl3EaC97I4KaFaOCaBE9Zn5jUsVqR2vcTJZO1DdbGoZryVp94Ka_mQfE7f2T3df0WBhLDAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://x.com/fernandashows/status/2040149817834246616&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fx.com%2Ffernandashows%2Fstatus%2F2040149817834246616",
+      "source": "X · fernandashows",
+      "read_more_link": "https://www.google.com/goto?url=CAESowEB6zswFcZ6eYP6PRPwo2CfXjAO-njaxroE3qy3Bo6nOj9FSYhHrlL4ILHumHPaDeyG2TV9osZ0ewChUwkWtDbVotIs-IVLfxyEaRO8lS0SEaV4VBXesNVehkykL18Jtwfoxu3WSBvc3x5mft4V0xIBf52ERsJ_EW_ovEV_aZS8h7gJohvCDiI_rqix-jZFtaq_PZzntxZSgmIaY2EBczDY6VQE"
+    },
+    {
+      "position": 8,
+      "title": "Fernandashow Porn Videos",
+      "link": "https://www.pornhub.com/video/search?search\\u003dfernandashow",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAEScAHrOzAVL4oXtcKAGlxmwswAa53vmc0T17iLN7zK297QLvg1xQIqnZXtQH9o02sUpUw3UWBZt5y6nBIm2x2GUqJOwdFnR9hx09hRS_MnCcbpMpTLvUudaI44GS-RsuZ4a2alm8NHbp06FAvzhYVqUis&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQILRAB&uoh=1",
+      "displayed_link": "https://www.pornhub.com › video › search",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEX_kAD_kAD_kAD_lAAAAACiWwD3iwCHTABoOgBEJwDNdAAnFgC_4rk7AAAAAnRSTlPGxQA9i88AAACESURBVCiRzZJJEsMgDASxFhjE__8bCe8u8DFJX0DVqBhKpIWmLGnuiH4j806U27LtEhdZaTBmiCi7YhUpfErHRhKmGmfqSCo75jYPZSQ4ZHDvJC9bSGiAQ1YAVaLEme6RFjlkq0G7daKY54g7-_sfaXvIWVr6nrxM6TqyPsP_-2AvNn0AXjAKHUMtou4AAAAASUVORK5CYII.png",
+      "snippet": "Watch Fernandashow porn videos for free, here on Pornhub.com. Discover the growing collection of high quality Most Relevant XXX movies and clips.",
+      "snippet_highlighted_words": [
+        "Watch Fernandashow porn videos for free"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "Watch Fernandashow porn videos for free, here on Pornhub.com. Discover the growing collection of high quality Most Relevant XXX movies and clips.",
+          "source_info_link": "https://www.pornhub.com/video/search?search=fernandashow",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAJFBMVEX_kAD_kAD_kAD_lAAAAACiWwD3iwCHTABoOgBEJwDNdAAnFgC_4rk7AAAAAnRSTlPGxQA9i88AAACESURBVCiRzZJJEsMgDASxFhjE__8bCe8u8DFJX0DVqBhKpIWmLGnuiH4j806U27LtEhdZaTBmiCi7YhUpfErHRhKmGmfqSCo75jYPZSQ4ZHDvJC9bSGiAQ1YAVaLEme6RFjlkq0G7daKY54g7-_sfaXvIWVr6nrxM6TqyPsP_-2AvNn0AXjAKHUMtou4AAAAASUVORK5CYII.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.pornhub.com/video/search?search=fernandashow&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.pornhub.com%2Fvideo%2Fsearch%3Fsearch%3Dfernandashow",
+      "source": "Pornhub"
+    },
+    {
+      "position": 9,
+      "title": "FERNANDASHOW - Porn Videos & Photos",
+      "link": "https://www.erome.com/a/N1MWjngU",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESWAHrOzAVMSdyoJA_swh9UHV_IIjHUg0PiXceZlcM5kZ35myRgISmynLYJeDJJFWvYODlfVyPy-_EshlaZoWPbzswYUEgWI9LzQilgU2i145c0QJg1K79G1Q&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQILBAB&uoh=1",
+      "displayed_link": "https://www.erome.com › ...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABVIja7S3bZV4nlW5DMUYGPOVprK0O_THjdWIvhWo7IUH55MEz2YpvyYZnuX5ZKHS7CTXoeDBMzFSD1YpqINlYjDhYqERqWPF8QBgpkKD8YCg9xLUc8GCYfDRSwRm_vz0_QAAAAmUlEQVR4AcXNRRLEMAxE0Q6jpDDD_W855bKHlXXexvANuI3nB2EU23mSZnlR4sUnFmEKKwC1nQfNq4nFLaLOTTP3DonDdf-ak_2lZtGEMERHg4l8EUcTo4sKY-q0xDWMWb1JC-xVUi4WcALl7gpnDX9rV-FlkO9KGz7sIavNOj5q5-FX0NnEYYt_J5lGEVRbx0ITLgxBWOFmDz_NFKF8yRGFAAAAAElFTkSuQmCC.png",
+      "snippet": "FERNANDASHOW pictures and videos on EroMe. The album about FERNANDASHOW is to be seen for free on EroMe shared by jpthdmnd. Come see and share your amateur ...",
+      "snippet_highlighted_words": [
+        "FERNANDASHOW pictures and videos on EroMe"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "FERNANDASHOW pictures and videos on EroMe. The album about FERNANDASHOW is to be seen for free on EroMe shared by jpthdmnd. Come see and share your amateur ...",
+          "source_info_link": "https://www.erome.com/a/N1MWjngU",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAMAAABF0y-mAAAAYFBMVEUAAABVIja7S3bZV4nlW5DMUYGPOVprK0O_THjdWIvhWo7IUH55MEz2YpvyYZnuX5ZKHS7CTXoeDBMzFSD1YpqINlYjDhYqERqWPF8QBgpkKD8YCg9xLUc8GCYfDRSwRm_vz0_QAAAAmUlEQVR4AcXNRRLEMAxE0Q6jpDDD_W855bKHlXXexvANuI3nB2EU23mSZnlR4sUnFmEKKwC1nQfNq4nFLaLOTTP3DonDdf-ak_2lZtGEMERHg4l8EUcTo4sKY-q0xDWMWb1JC-xVUi4WcALl7gpnDX9rV-FlkO9KGz7sIavNOj5q5-FX0NnEYYt_J5lGEVRbx0ITLgxBWOFmDz_NFKF8yRGFAAAAAElFTkSuQmCC.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.erome.com/a/N1MWjngU&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.erome.com%2Fa%2FN1MWjngU",
+      "source": "Ero Me"
+    },
+    {
+      "position": 10,
+      "title": "FernandaShows🎀 @fernandashows - Twitter Profile",
+      "link": "https://www.sotwe.com/fernandashows?lang\\u003den",
+      "redirect_link": "https://www.google.com/url?sa=t&source=web&rct=j&opi=89978449&url=CAESYwHrOzAV2mb17c15ReDG8j8gSctj4rFOke9r__vm7pxR01osHBNmYDl44bwFaZx91sz2W6fgGrU6V58yGdpTuX4t8zFjj_-JevwwnG-KwSKgVvU95ODoFb5o-bIz7jX0xDov5A&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhAWegQIMhAB&uoh=1",
+      "displayed_link": "https://www.sotwe.com › fernanda...",
+      "favicon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA90lEQVR4AXXRIQiFMBAA0PVu-dHwOxgGth-tFjtYzPZgsyPYTMLPi-smm1X4YLIZbL_dnzd3cNN_wR33duDdBFCoQgZR3u9AQbgIF90FdwuZMp_axxytACjNMXLc0EKTvc0ZMcSS7VBH8mFYCtfQH1nPMD1KLV2rGUqaQdA1wuwoSZM0iDPD_hy_ttN6cwoMhSPFXw8nqzXobrjuVll9YRdH2gMtgCPoU6c7hPnU7YJbU-ktRJQM3VuHS4yqPUwExhr-XUIwwIrJDQZmRrvAlePTvcV4g60plfQE_iiu4fJDNIuaUrdBhrBKcYa-W99YxcEjaXYq_AA4-g0qYa1mrwAAAABJRU5ErkJggg.png",
+      "snippet": "See tweets, replies, photos and videos from @fernandashows Twitter profile. 478.5K Followers, 20 Following. creadora de contenido mid // 22 ...",
+      "snippet_highlighted_words": [
+        "fernandashows Twitter profile"
+      ],
+      "about_this_result": {
+        "source": {
+          "description": "See tweets, replies, photos and videos from @fernandashows Twitter profile. 478.5K Followers, 20 Following. creadora de contenido mid // 22 ...",
+          "source_info_link": "https://www.sotwe.com/fernandashows?lang=en",
+          "icon": "https://serpapi.com/images/i/iVBORw0KGgoAAAANSUhEUgAAABwAAAAcCAAAAABXZoBIAAAA90lEQVR4AXXRIQiFMBAA0PVu-dHwOxgGth-tFjtYzPZgsyPYTMLPi-smm1X4YLIZbL_dnzd3cNN_wR33duDdBFCoQgZR3u9AQbgIF90FdwuZMp_axxytACjNMXLc0EKTvc0ZMcSS7VBH8mFYCtfQH1nPMD1KLV2rGUqaQdA1wuwoSZM0iDPD_hy_ttN6cwoMhSPFXw8nqzXobrjuVll9YRdH2gMtgCPoU6c7hPnU7YJbU-ktRJQM3VuHS4yqPUwExhr-XUIwwIrJDQZmRrvAlePTvcV4g60plfQE_iiu4fJDNIuaUrdBhrBKcYa-W99YxcEjaXYq_AA4-g0qYa1mrwAAAABJRU5ErkJggg.png"
+        },
+        "languages": [
+          "en"
+        ],
+        "regions": [
+          "US"
+        ]
+      },
+      "about_page_link": "https://www.google.com/search?q=About+https://www.sotwe.com/fernandashows?lang=en&tbm=ilp",
+      "about_page_serpapi_link": "https://serpapi.com/search.json?engine=google_about_this_result&google_domain=google.com&q=About+https%3A%2F%2Fwww.sotwe.com%2Ffernandashows%3Flang%3Den",
+      "source": "Sotwe"
+    }
+  ],
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In response to multiple complaints we received under the US Digital Millennium Copyright Act, we have removed 2 results from this page. If you wish, you may read the DMCA complaints that caused the removals at LumenDatabase.org: Complaint, Complaint.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVcGK1Z69Y_TRGYO4U83Zzv8yNgm9IsFjQIdyUqCm5o4KDirXW_upvefIwc-PjT9NQgeIbXrG7p_re90PgE6lR7sZY4jhXYUte2_d4dURipJhX85W104ALFabPVYdI",
+            "text": "Complaint"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVfOuYHA8a6wvgbMLCJ1liPJPwnYIAFdRnU0Jpp4OEczHuW5BLl5TvFM366ed5psBtG7yG509CHNwSrbAByNtn0BG3_99_-l44bdb-8R_hw1UhVPFIFTe7b63beO_F",
+            "text": "Complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=20&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDx0wN6BAgqEAY",
+    "next": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=40&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDw0wN6BAgqEBc",
+    "other_pages": {
+      "1": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=0&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEAg",
+      "2": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=10&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEAo",
+      "3": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=20&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEAw",
+      "5": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=40&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEA8",
+      "6": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=50&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEBE",
+      "7": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=60&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEBM",
+      "8": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&gl=us&hl=en&ei=haOUarCUMYqEwbkPvvDsuA8&start=70&sa=N&ved=2ahUKEwjw6qHhqMmWAxUKQjABHT44G_c4HhDy0wN6BAgqEBU"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=20",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=20",
+    "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=40",
+    "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=40",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=0",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=20",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=FernandaShows&start=70"
+    }
+  }
+}

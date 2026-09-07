@@ -1,0 +1,5 @@
+# Local verification only. Tested with CPython 3.12.14.
+# NumPy DCT pHash avoids ImageHash/SciPy. Tests use stdlib unittest.
+numpy==2.3.5
+Pillow==12.3.0
+# External: ffmpeg and ffprobe; versions recorded in every report.

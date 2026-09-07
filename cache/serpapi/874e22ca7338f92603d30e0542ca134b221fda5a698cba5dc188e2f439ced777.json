@@ -1,0 +1,35 @@
+{
+  "search_metadata": {
+    "id": "6a98c4c81a29fe8b6de12cd1",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/D-YwLaQdEkP2GGiq5RINrwf44rToFaDul4Y76SK07Ag/6a98c4c81a29fe8b6de12cd1.json",
+    "markdown_endpoint": "https://serpapi.com/searches/D-YwLaQdEkP2GGiq5RINrwf44rToFaDul4Y76SK07Ag/6a98c4c81a29fe8b6de12cd1.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/D-YwLaQdEkP2GGiq5RINrwf44rToFaDul4Y76SK07Ag/6a98c4c81a29fe8b6de12cd1.json_with_pixel_position",
+    "created_at": "2026-09-03 00:52:24 UTC",
+    "processed_at": "2026-09-03 00:52:24 UTC",
+    "google_url": "https://www.google.com/search?q=camwhores+fernandashows&oq=camwhores+fernandashows&start=30&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/D-YwLaQdEkP2GGiq5RINrwf44rToFaDul4Y76SK07Ag/6a98c4c81a29fe8b6de12cd1.html",
+    "total_time_taken": 9.93
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "camwhores fernandashows",
+    "google_domain": "google.com",
+    "start": 30,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "camwhores fernandashows",
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query.",
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=camwhores+fernandashows&sca_esv=dd46a656673c1180&gl=us&hl=en&sxsrf=APpeQnsEodvFrSMDKqK9Dn5huUvQsHcWNg:1788396754103&ei=0sSYatO3BNWIptQP4KaH6QU&start=20&sa=N&ved=2ahUKEwjT6PmJmdGWAxVVhIkEHWDTIV04HhDx0wN6BAgOEAI"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=camwhores+fernandashows&start=20",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=camwhores+fernandashows&start=20"
+  }
+}

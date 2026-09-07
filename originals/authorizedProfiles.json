@@ -1,0 +1,47 @@
+{
+  "identity": {
+    "name": "FernandaShows",
+    "aliases": [
+      "FernandaShows",
+      "Fernanda Shows"
+    ]
+  },
+  
+  "authorizedDomains": [
+    "x.com",
+    "onlyfans.com"
+  ],
+
+  "authorizedProfiles": [
+    {
+      "platform": "x.com",
+      "url": "https://x.com/fernandaShowss",
+      "username": "@fernandaShowss"
+    },
+    {
+      "platform": "x.com",
+      "url": "https://x.com/fernandashows",
+      "username": "@fernandashows"
+    },
+    {
+      "platform": "x.com",
+      "url": "https://x.com/fernandashow2",
+      "username": "@fernandashow2"
+    },
+    {
+      "platform": "onlyfans",
+      "url": "https://onlyfans.com/fernandashow_2",
+      "username": "fernandashow_2"
+    },   
+    {
+      "platform": "Instagram",
+      "url": " https://www.instagram.com/fernandashows_oficial",
+      "username": "@fernandashows_oficial"
+    },
+    {
+      "platform": "Tiktok",
+      "url": "https://www.tiktok.com/@fernanda_shows",
+      "username": "@fernanda_shows"
+    }
+  ]
+}

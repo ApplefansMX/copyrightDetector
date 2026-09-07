@@ -1,0 +1,86 @@
+{
+  "search_metadata": {
+    "id": "6a94ace2d02d2a0bbedf883b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/3LKTgh-3eGY-ucSNp8Gf8lbffUbrOG8ashlRcbSkEZI/6a94ace2d02d2a0bbedf883b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/3LKTgh-3eGY-ucSNp8Gf8lbffUbrOG8ashlRcbSkEZI/6a94ace2d02d2a0bbedf883b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/3LKTgh-3eGY-ucSNp8Gf8lbffUbrOG8ashlRcbSkEZI/6a94ace2d02d2a0bbedf883b.json_with_pixel_position",
+    "created_at": "2026-08-30 22:21:22 UTC",
+    "processed_at": "2026-08-30 22:21:22 UTC",
+    "google_url": "https://www.google.com/search?q=FernandaShows&oq=FernandaShows&start=90&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/3LKTgh-3eGY-ucSNp8Gf8lbffUbrOG8ashlRcbSkEZI/6a94ace2d02d2a0bbedf883b.html",
+    "total_time_taken": 6.76
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "FernandaShows",
+    "google_domain": "google.com",
+    "start": 90,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "FernandaShows",
+    "total_results": 70,
+    "page_number": 10,
+    "time_taken_displayed": 0.28,
+    "organic_results_state": "Fully empty"
+  },
+  "dmca_messages": {
+    "title": "إشعارات حول \"النتائج التي تمّت تصفيتها\"",
+    "messages": [
+      {
+        "content": "لعرض النتائج الأكثر صلة بالموضوع، حذفنا بعض الإدخالات الشبيهة 70 بالنتائج المعروضة فعلاً.إذا أردت، يمكنك تكرار البحث باستخدام تضمين نتائج البحث التي تم حذفها.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&filter=0",
+            "text": "تكرار البحث باستخدام تضمين نتائج البحث التي تم حذفها"
+          }
+        ]
+      },
+      {
+        "content": "ردًا على الشكاوى المتعددة التي تلقّيناها بموجب قانون الألفية الجديدة لحقوق طبع ونشر المواد الرقمية (DMCA)، أزلنا 2 نتيجة من هذه الصفحة. ويمكنك إذا أردت قراءة الشكاوى المقدّمة بموجب قانون DMCA التي أدّت إلى عمليات الإزالة على LumenDatabase.org: الشكوى, الشكوى.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVYSsVHP7R6DUv-mOi0ALnRj9b6vVXtzM8ucBK0B9pq3_zFQaZI0Hq3Te-SoZQ2_9Fcp4p4ZCfybFl2HfzikG8s9PvWHnqz6ntrD9eabtB8Z8kDf3hhNS2SoFXEf0w",
+            "text": "الشكوى"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVPQ0sMOuaQrNR2CBjzPtgBE7BHPy7gGvLc7bNIB5zE6R2xX-_S7w_26YeHa_Vdbh8HVrmyrmBYy2V_w9iDNRo6KdctRGxgUooSif23RTfbBWBwXXVyqErmAcdUfpv",
+            "text": "الشكوى"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=80&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDx0wN6BAgVEAU",
+    "other_pages": {
+      "1": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=0&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEAc",
+      "2": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=10&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEAk",
+      "3": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=20&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEAs",
+      "4": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=30&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEA0",
+      "5": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=40&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEA8",
+      "6": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=50&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEBE",
+      "7": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=60&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEBM",
+      "8": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=70&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEBU",
+      "9": "https://www.google.com/search?q=FernandaShows&sca_esv=2314c1a7de0924e4&ei=6KyUat-YLtmU0PEPuIfx6AM&start=80&sa=N&ved=2ahUKEwjfrIrbscmWAxVZCjQIHbhDHD04WhDy0wN6BAgVEBc"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=80",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=80",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=0",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=30",
+      "5": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=40",
+      "6": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=50",
+      "7": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=60",
+      "8": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=70",
+      "9": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=FernandaShows&start=80"
+    }
+  }
+}

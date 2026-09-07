@@ -1,0 +1,35 @@
+{
+  "search_metadata": {
+    "id": "6a98c1f56539a2b55d3f562b",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/Iw9kQxqFrDpk2tuz1bWWBgqeABoJ8A_QSRe5pn2ErfU/6a98c1f56539a2b55d3f562b.json",
+    "markdown_endpoint": "https://serpapi.com/searches/Iw9kQxqFrDpk2tuz1bWWBgqeABoJ8A_QSRe5pn2ErfU/6a98c1f56539a2b55d3f562b.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/Iw9kQxqFrDpk2tuz1bWWBgqeABoJ8A_QSRe5pn2ErfU/6a98c1f56539a2b55d3f562b.json_with_pixel_position",
+    "created_at": "2026-09-03 00:40:21 UTC",
+    "processed_at": "2026-09-03 00:40:21 UTC",
+    "google_url": "https://www.google.com/search?q=pajeri+fernandashows&oq=pajeri+fernandashows&start=30&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/Iw9kQxqFrDpk2tuz1bWWBgqeABoJ8A_QSRe5pn2ErfU/6a98c1f56539a2b55d3f562b.html",
+    "total_time_taken": 5.53
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pajeri fernandashows",
+    "google_domain": "google.com",
+    "start": 30,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pajeri fernandashows",
+    "organic_results_state": "Fully empty"
+  },
+  "error": "Google hasn't returned any results for this query.",
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=pajeri+fernandashows&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=-cGYaubUOdq94-EPyJaW0QI&start=20&sa=N&ved=2ahUKEwimteCultGWAxXa3jgGHUiLJSo4HhDx0wN6BAgOEAI"
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows&start=20",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows&start=20"
+  }
+}

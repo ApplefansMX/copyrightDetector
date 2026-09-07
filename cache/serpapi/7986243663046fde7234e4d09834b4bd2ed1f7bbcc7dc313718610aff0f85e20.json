@@ -1,0 +1,89 @@
+{
+  "search_metadata": {
+    "id": "6a98c1fb22abf74423a61bda",
+    "status": "Success",
+    "json_endpoint": "https://serpapi.com/searches/FpNl0m0Jjj8xFp402-7-ZGP6BXlQ8tz3k5hY9EytUy4/6a98c1fb22abf74423a61bda.json",
+    "markdown_endpoint": "https://serpapi.com/searches/FpNl0m0Jjj8xFp402-7-ZGP6BXlQ8tz3k5hY9EytUy4/6a98c1fb22abf74423a61bda.md",
+    "pixel_position_endpoint": "https://serpapi.com/searches/FpNl0m0Jjj8xFp402-7-ZGP6BXlQ8tz3k5hY9EytUy4/6a98c1fb22abf74423a61bda.json_with_pixel_position",
+    "created_at": "2026-09-03 00:40:27 UTC",
+    "processed_at": "2026-09-03 00:40:27 UTC",
+    "google_url": "https://www.google.com/search?q=pajeri+fernandashows&oq=pajeri+fernandashows&start=40&sourceid=chrome&ie=UTF-8",
+    "raw_html_file": "https://serpapi.com/searches/FpNl0m0Jjj8xFp402-7-ZGP6BXlQ8tz3k5hY9EytUy4/6a98c1fb22abf74423a61bda.html",
+    "total_time_taken": 3.85
+  },
+  "search_parameters": {
+    "engine": "google",
+    "q": "pajeri fernandashows",
+    "google_domain": "google.com",
+    "start": 40,
+    "device": "desktop"
+  },
+  "search_information": {
+    "query_displayed": "pajeri fernandashows",
+    "total_results": 29,
+    "page_number": 5,
+    "time_taken_displayed": 0.21,
+    "organic_results_state": "Fully empty"
+  },
+  "dmca_messages": {
+    "title": "Notices about Filtered Results",
+    "messages": [
+      {
+        "content": "In order to show you the most relevant results, we have omitted some entries very similar to the 29 already displayed.If you like, you can repeat the search with the omitted results included.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&filter=0",
+            "text": "repeat the search with the omitted results included"
+          }
+        ]
+      },
+      {
+        "content": "In response to a legal request submitted to Google, we have removed 4 result(s) from this page. If you wish, you may read more about the request at LumenDatabase.org.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/goto?url=CAESXgHrOzAVrvmGwjaLUo_BCgeF0MeDh18xO8w2Devzxoyf-UNqBUxZ7aDp4XAKW7xrDqEwLA3geAWC10ZX1wZjhCaYevjzwpjWzXUdbeacc55mJ0BaZV02xRAmKycrDpo",
+            "text": "read more about the request"
+          }
+        ]
+      },
+      {
+        "content": "In response to multiple complaints we received under the US Digital Millennium Copyright Act, we have removed 2 results from this page. If you wish, you may read the DMCA complaints that caused the removals at LumenDatabase.org: Complaint, Complaint.",
+        "highlighted_words": [
+          {
+            "link": "https://www.google.com/support/answer/1386831",
+            "text": "US Digital Millennium Copyright Act"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAVqEeTpKA4gP2u-obUinUx2W-JMfs0Rc4aTXnJL29knW0xq6EsRN_80R03aqK_rLj6dKx-68b2d5gpuPSkBmDmaqDfV7ssFPH4RskTjxuVVnBj1Bz3WMykSG6M2A2x",
+            "text": "Complaint"
+          },
+          {
+            "link": "https://www.google.com/goto?url=CAESYgHrOzAV4yRftRvjns21U5E-sspwUWGCY5ZMJu2OhQ5YWNjQCY8te9nT2zOTj9ffO5o42GEfPQ33AapEvoE7vTkQVmkeZrJN869yiTqe4f01xkpmi2yeqXaOuxcYa5Jwl2Md",
+            "text": "Complaint"
+          }
+        ]
+      }
+    ]
+  },
+  "pagination": {
+    "current": 1,
+    "previous": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=_cGYaovSDv27qtsPwtqJ2As&start=30&sa=N&ved=2ahUKEwjLxKmwltGWAxX9nWoFHUJtArs4KBDx0wN6BAgXEAg",
+    "other_pages": {
+      "1": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=_cGYaovSDv27qtsPwtqJ2As&start=0&sa=N&ved=2ahUKEwjLxKmwltGWAxX9nWoFHUJtArs4KBDy0wN6BAgXEAo",
+      "2": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=_cGYaovSDv27qtsPwtqJ2As&start=10&sa=N&ved=2ahUKEwjLxKmwltGWAxX9nWoFHUJtArs4KBDy0wN6BAgXEAw",
+      "3": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=_cGYaovSDv27qtsPwtqJ2As&start=20&sa=N&ved=2ahUKEwjLxKmwltGWAxX9nWoFHUJtArs4KBDy0wN6BAgXEA4",
+      "4": "https://www.google.com/search?q=pajeri+fernandashows+&sca_esv=dd46a656673c1180&gl=us&hl=en&ei=_cGYaovSDv27qtsPwtqJ2As&start=30&sa=N&ved=2ahUKEwjLxKmwltGWAxX9nWoFHUJtArs4KBDy0wN6BAgXEBA"
+    }
+  },
+  "serpapi_pagination": {
+    "current": 1,
+    "previous_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=30",
+    "previous": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=30",
+    "other_pages": {
+      "1": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=0",
+      "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=10",
+      "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=20",
+      "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=pajeri+fernandashows+&start=30"
+    }
+  }
+}
